@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+activation.db
+.admin_config.json
+.salt.dat
+*.log
